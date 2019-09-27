@@ -2,7 +2,7 @@
 
 # one hot encoding of top variables
 
-#Advantages
+# Advantages
 
 Straightforward to implement
 
